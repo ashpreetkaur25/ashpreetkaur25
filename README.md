@@ -1,4 +1,4 @@
-<img src="https://tenor.com/bp3AQ.gif" align="center" width="100%">
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" height="350" width="100%" >
 <h1 align="center">Hi 👋, I'm Ashpreet Kaur</h1>
 <h3 align="center">A work in progress web developer!</h3>
 
