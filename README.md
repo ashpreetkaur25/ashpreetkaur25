@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing ReactJS projects<br>👯 I’m looking to collaborate on ReactJs and Full stack web development projects<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about DSA, Web Development, Coffee<br>⚡ Fun fact: I love to watch Air Crash Investigation documentaries
+🔭 I’m currently working on developing ReactJS projects<br>👯 I’m looking to collaborate on ReactJs and Full stack web development projects<br>🌱 I’m currently learning ReactJs<br>💬 Reach me at : ashpreet.kaur2025@gmail.com<br>⚡ Fun fact: I love to watch Air Crash Investigation documentaries
 
 
 ## 🌐 Socials:
