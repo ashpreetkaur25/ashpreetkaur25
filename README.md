@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashpreet KAur</h1>
+<h1 align="center">Hi 👋, I'm Ashpreet Kaur</h1>
 <h3 align="center">A work in progress web developer!</h3>
-# 💫 About Me:
+
+## 💫 About Me:
 🔭 I’m currently working on developing ReactJS projects<br>👯 I’m looking to collaborate on ReactJs and Full stack web development projects<br>🌱 I’m currently learning ReactJs<br>💬 Reach me at : ashpreet.kaur2025@gmail.com<br>⚡ Fun fact: I love to watch Air Crash Investigation documentaries
 
 
